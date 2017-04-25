@@ -10,7 +10,7 @@
 <tspan x="10" y="122">  │ │ ├── arrify@1.0.1 </tspan>
 <tspan x="10" y="138">  │ │ └─┬ micromatch@2.3.11 </tspan>
 <tspan x="10" y="154">  │ │   ├─┬ arr-diff@2.0.0 </tspan>
-<tspan x="10" y="170">  │ │   │ └── arr-flatten@1.0.2 </tspan>
+<tspan x="10" y="170">  │ │   │ └── arr-flatten@1.0.3 </tspan>
 <tspan x="10" y="186">  │ │   ├── array-unique@0.2.1 </tspan>
 <tspan x="10" y="202">  │ │   ├─┬ braces@1.8.5 </tspan>
 <tspan x="10" y="218">  │ │   │ ├─┬ expand-range@1.8.2 </tspan>
@@ -25,7 +25,7 @@
 <tspan x="10" y="362">  │ │   │ └── is-posix-bracket@0.1.1 </tspan>
 <tspan x="10" y="378">  │ │   ├── extglob@0.3.2 </tspan>
 <tspan x="10" y="394">  │ │   ├── filename-regex@2.0.0 </tspan>
-<tspan x="10" y="410">  │ │   ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="410">  │ │   ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="426">  │ │   │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="442">  │ │   ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="458">  │ │   │ └── remove-trailing-separator@1.0.1 </tspan>
@@ -57,8 +57,8 @@
 <tspan x="10" y="874">  │   │ ├── string_decoder@1.0.0 </tspan>
 <tspan x="10" y="890">  │   │ └── util-deprecate@1.0.2 </tspan>
 <tspan x="10" y="906">  │   └── set-immediate-shim@1.0.1 </tspan>
-<tspan x="10" y="922">  ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="938">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="922">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="938">  │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="954">  ├── es6-promise@3.3.1 </tspan>
 <tspan x="10" y="970">  ├── ignore-by-default@1.0.1 </tspan>
 <tspan x="10" y="986">  ├─┬ lodash.defaults@3.1.2 </tspan>
@@ -106,7 +106,7 @@
 <tspan x="10" y="1658">    │ ├─┬ osenv@0.1.4 </tspan>
 <tspan x="10" y="1674">    │ │ └── os-homedir@1.0.2 </tspan>
 <tspan x="10" y="1690">    │ ├── uuid@2.0.3 </tspan>
-<tspan x="10" y="1706">    │ ├─┬ write-file-atomic@1.3.1 </tspan>
+<tspan x="10" y="1706">    │ ├─┬ write-file-atomic@1.3.3 </tspan>
 <tspan x="10" y="1722">    │ │ ├── imurmurhash@0.1.4 </tspan>
 <tspan x="10" y="1738">    │ │ └── slide@1.1.6 </tspan>
 <tspan x="10" y="1754">    │ └── xdg-basedir@2.0.0 </tspan>
